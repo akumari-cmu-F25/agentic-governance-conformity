@@ -1,4 +1,4 @@
-# Target agent results: Run 2, weaker model (Person 2 → Person 3)
+# Target agent results: Run 2, weaker model
 
 Same 90 scenarios, prompts, isolation method and CSV columns as Run 1. See `results/README.md` for the column definitions. Only the model and effort differ.
 

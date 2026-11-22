@@ -1,4 +1,4 @@
-# Target agent results: Run 1 (Person 2 → Person 3)
+# Target agent results: Run 1
 
 ## Files
 - `target_agent_results.csv`: 90 rows (15 questions × 6 conditions), one per scenario.

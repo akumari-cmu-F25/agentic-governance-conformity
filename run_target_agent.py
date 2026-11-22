@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Person 2 - Target agent simulation (Claude).
+Target agent simulation (Claude).
 
 For each of the 90 scenarios in pilot_output/pilot_conditions.json:
   Round 1: target answers the question alone        (fresh API call)
@@ -16,7 +16,7 @@ Values in .env override anything already exported in your shell.
 
 Outputs (in --out-dir, default results/):
   target_agent_results.jsonl  full audit trail (prompts + raw responses), appended per scenario
-  target_agent_results.csv    90-row table for Person 3, rebuilt from the JSONL
+  target_agent_results.csv    90-row table, rebuilt from the JSONL
 
 Usage:
   .venv/bin/python run_target_agent.py                 # full run (resumes if interrupted)
